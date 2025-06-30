@@ -1,4 +1,6 @@
-# Plan de lectura 0
+# Plan de lectura 1
+
+<h3 style="text-align:center;"><i>Primer acercamiento a la matemática con rumbo al Álgebra Conmutativa</i></h3>
 
 ## Planteamiento
 
@@ -106,4 +108,3 @@ _15 de junio de 2025_
 _homológica_, _geometría algebraica_ y  _teoría de categorías_, considero que es necesario hacer uso de un enfoque histórico para dar sentido al desarrollo de estas disciplinas, a la par de hacer un
 balance teórico de lo que se ha realizado en estas áreas. Por supuesto, esto requerirá bastantes años de trabajo y estudio, así como de un equipo capacitado para realizar las tareas necesarias para ver
 concretado este trabajo. Claramente, esta tarea se me puede salir de las manos muy rápidamente. 
- xtos y se pone de acu
