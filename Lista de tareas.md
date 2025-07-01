@@ -7,6 +7,7 @@
 - [ ] Escribir la descripción en el **Nivel 3**
 - [ ] Escribir la descripción en el **Nivel 4**
 - [ ] Escribir la descripción en el **Nivel 5**
+- [ ] Redactar el README 
 
 
 
