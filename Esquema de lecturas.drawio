@@ -1,0 +1,164 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Página-1" id="6eC2rALpmtEl9lhHdQXh">
+    <mxGraphModel dx="806" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Men0KUWrKKIl8DnscdoY-1" value="&lt;i&gt;Discrete and Combinatorial Mathematics &lt;/i&gt;by Ralph P. Grimaldi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-2" value="&lt;i&gt;The Fractal Geometry of Nature &lt;/i&gt;by Benoit Mandelbrot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-3" target="Men0KUWrKKIl8DnscdoY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-3" target="Men0KUWrKKIl8DnscdoY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-3" target="Men0KUWrKKIl8DnscdoY-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-3" value="&lt;i&gt;Linear Algebra Done Right&lt;/i&gt; by Sheldon Axler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-4" target="Men0KUWrKKIl8DnscdoY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-4" value="&lt;i&gt;How to Think About Abstract Algebra&lt;/i&gt; by&amp;nbsp;&lt;div&gt;Lara Alcock&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-5" target="Men0KUWrKKIl8DnscdoY-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-5" target="Men0KUWrKKIl8DnscdoY-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-5" value="&lt;i&gt;Introduction to Real Analysis &lt;/i&gt;by Bartle &amp;amp; Sherbert" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-6" value="&lt;i&gt;Formal Languages &lt;/i&gt;by Arto Salomaa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-8" value="&lt;i&gt;Introduction to Automata Theory, Language, and Computation &lt;/i&gt;by Hopcroft &amp;amp; Motwani" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="150" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.667;exitY=1.017;exitDx=0;exitDy=0;entryX=0.992;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-10" target="Men0KUWrKKIl8DnscdoY-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-10" target="Men0KUWrKKIl8DnscdoY-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-10" target="Men0KUWrKKIl8DnscdoY-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-10" target="Men0KUWrKKIl8DnscdoY-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-10" value="&lt;i&gt;Algebra &lt;/i&gt;by MacLane &amp;amp; Birkhoff" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="155" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-6" target="Men0KUWrKKIl8DnscdoY-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="240" as="sourcePoint" />
+            <mxPoint x="740" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-22" target="Men0KUWrKKIl8DnscdoY-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-22" target="Men0KUWrKKIl8DnscdoY-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-22" target="Men0KUWrKKIl8DnscdoY-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="240" />
+              <mxPoint x="1070" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-22" target="Men0KUWrKKIl8DnscdoY-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="230" />
+              <mxPoint x="1140" y="230" />
+              <mxPoint x="1140" y="449" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-22" value="&lt;i&gt;Multidimensional Real Analysis &lt;/i&gt;by Duistermaa &amp;amp; Kolk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="155" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-25" value="&lt;i&gt;Elementary Probability Theory &lt;/i&gt;by Chung &amp;amp; Aitsahlia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="155" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-27" target="Men0KUWrKKIl8DnscdoY-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-27" value="&lt;i&gt;Algebra: Chapter 0&lt;/i&gt;&amp;nbsp;by Paulo Aluffi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-29" target="Men0KUWrKKIl8DnscdoY-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-29" value="&lt;i&gt;Basic Notions of Algebra&lt;/i&gt; by Kostrikin &amp;amp; Shafarevich" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-31" value="&lt;i&gt;Commutative Algebra with a View Toward Algebraic Geometry&lt;/i&gt; by David Eisenbund" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="720" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-33" target="Men0KUWrKKIl8DnscdoY-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-33" value="&lt;i&gt;Category Theory in Context &lt;/i&gt;by Emily Riehl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-35" target="Men0KUWrKKIl8DnscdoY-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-35" value="Ideal, Varieties, and Algorithms &lt;span style=&quot;font-style: normal;&quot;&gt;by Cox, Little &amp;amp; O&#39;Shea&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="270" y="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-38" value="&lt;i&gt;A Concise Course in Algebraic Topology &lt;/i&gt;by J. P. May" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-43" value="&lt;i&gt;An Introduction to the Theory of Groups &lt;/i&gt;by Joseph Rotman" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="240" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-45" value="&lt;i&gt;Análisis matemático &lt;/i&gt;por Mónica Clapp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-46" value="&lt;i&gt;General Topology &lt;/i&gt;by Stephen Willard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-47" value="&lt;i&gt;Differential Equations and their Applications &lt;/i&gt;by Martin Braun" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-48" target="Men0KUWrKKIl8DnscdoY-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-48" value="&lt;i&gt;Differential Geometry of Curves &amp;amp; Surfaces &lt;/i&gt;by Manfredo P. Do Carmo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="414" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-53" value="&lt;i&gt;Manifolds and Differential Geometry &lt;/i&gt;by Jeffrey M. Lee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="985" y="530" width="130" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

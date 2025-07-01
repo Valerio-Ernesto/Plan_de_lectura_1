@@ -1,0 +1,64 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Página-1" id="6eC2rALpmtEl9lhHdQXh">
+    <mxGraphModel dx="806" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Men0KUWrKKIl8DnscdoY-1" value="&lt;i&gt;Discrete and Combinatorial Mathematics &lt;/i&gt;by Ralph P. Grimaldi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-2" value="&lt;i&gt;The Fractal Geometry of Nature &lt;/i&gt;by Benoit Mandelbrot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-3" target="Men0KUWrKKIl8DnscdoY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-3" target="Men0KUWrKKIl8DnscdoY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-3" target="Men0KUWrKKIl8DnscdoY-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-3" value="&lt;i&gt;Linear Algebra Done Right&lt;/i&gt; by Sheldon Axler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-4" target="Men0KUWrKKIl8DnscdoY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-4" value="&lt;i&gt;How to Think About Abstract Algebra&lt;/i&gt; by&amp;nbsp;&lt;div&gt;Lara Alcock&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-5" target="Men0KUWrKKIl8DnscdoY-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-5" target="Men0KUWrKKIl8DnscdoY-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-5" value="&lt;i&gt;Introduction to Real Analysis &lt;/i&gt;by Bartle &amp;amp; Sherbert" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-6" value="&lt;i&gt;Formal Languages &lt;/i&gt;by Arto Salomaa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-8" value="&lt;i&gt;Introduction to Automata Theory, Language, and Computation &lt;/i&gt;by Hopcroft &amp;amp; Motwani" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="150" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-10" value="&lt;i&gt;Algebra &lt;/i&gt;by MacLane &amp;amp; Birkhoff" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="155" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Men0KUWrKKIl8DnscdoY-6" target="Men0KUWrKKIl8DnscdoY-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="240" as="sourcePoint" />
+            <mxPoint x="740" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-22" value="&lt;i&gt;Multidimensional Real Analysis &lt;/i&gt;by Duistermaa &amp;amp; Kolk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="155" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Men0KUWrKKIl8DnscdoY-25" value="&lt;i&gt;Elementary Probability Theory &lt;/i&gt;by Chung &amp;amp; Aitsahlia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="155" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
